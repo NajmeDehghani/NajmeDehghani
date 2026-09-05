@@ -118,12 +118,12 @@ My research focuses on applying intelligent algorithms and machine learning tech
 - Research in AI, optimization, IoT, cloud computing, and network security
 
 ## 📜 Certifications
-
-- Programming in C++
+- Programming in C++ Language
 - Programming with Python
-- Machine Learning (Artificial Intelligence)
-- Web Design
 - SEO and Search Engine Optimization
+- Machine Learning (Artificial Intelligence)
+- Web Design Pack (Web 1, 2, 3) + Tailwind CSS
+- Medical Emergencies
 
 ## 📫 Contact
 
