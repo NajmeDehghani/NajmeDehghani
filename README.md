@@ -1,16 +1,102 @@
-## Hi there 👋
+# Najme Dehghani
 
-<!--
-**NajmeDehghani/NajmeDehghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineer | AI Researcher | Python Developer
 
-Here are some ideas to get you started:
+I am a Computer Engineer with an MSc in Software Engineering and a background in software development, system analysis, artificial intelligence, machine learning, and optimization algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests include Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Natural Language Processing, IoT Security, Cloud Computing, Edge Computing, Network Security, and Software Engineering.
+
+## 🎓 Education
+
+- M.Sc. in Computer Engineering – Software
+  Islamic Azad University, Tehran Science and Research Branch, Fars, Iran
+  2014 – 2017
+
+- B.Sc. in Computer Engineering – Software
+  Islamic Azad University of Shiraz, Iran
+  2008 – 2013
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Optimization Algorithms
+- IoT Security
+- Network Security
+- Cloud Computing
+- Edge Computing
+- Image Processing
+- Natural Language Processing
+- Social Network Analysis
+- Database Management Systems
+- Human-Computer Interaction
+- Software Engineering
+- Algorithms
+- Programming Languages
+- Computer Architecture
+- Web Development
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+- Python
+- C
+- C++
+- C#
+- JavaScript
+
+### Software & Technologies
+
+- Machine Learning
+- Deep Learning
+- Web Development
+- Database Management Systems
+- MySQL
+- Data Warehousing & Analytics
+- SharePoint
+- Performance & Scalability Optimization
+- System Analysis
+- Project Management
+
+## 📚 Research
+
+My research focuses on applying intelligent algorithms and machine learning techniques to problems in:
+
+- Network and IoT Security
+- Intrusion Detection Systems
+- Cloud Task Scheduling
+- Edge Computing
+- 5G Networks
+- Industrial IoT
+- Optimization Algorithms
+- Image Segmentation
+- Data Mining
+
+## 📝 Selected Publications
+
+- Detecting Attacks in Software-Oriented Internet of Things Networks Using SDN-Based AI Algorithms
+- AO-HHO-LevyFlight Algorithm for Task Scheduling in Cloud
+- A Blockchain-Driven Decentralized Intrusion Detection System Using Double Q-Learning and Bi-LSTM (QB-AutoIDS)
+- Virtual Network Function Sharing and Deep Learning to Cost Efficient Network Slicing in 5G Network
+- Task Scheduling in Intelligent Edge of 5G-Enabled AI-Industrial IoT Using DL-LSTM-AQL
+
+## 🏆 Academic Accomplishments
+
+- 9 research publications and conference papers
+- Multiple first-author conference papers
+- Research in AI, optimization, IoT, cloud computing, and network security
+
+## 📜 Certifications
+
+- Programming in C++
+- Programming with Python
+- Machine Learning (Artificial Intelligence)
+- Web Design
+- SEO and Search Engine Optimization
+
+## 📫 Contact
+
+- Email: dehghaninajme65@gmail.com
+- GitHub: https://github.com/NajmeDehghani
