@@ -124,6 +124,25 @@ My research focuses on applying intelligent algorithms and machine learning tech
 - Machine Learning (Artificial Intelligence)
 - Web Design Pack (Web 1, 2, 3) + Tailwind CSS
 - Medical Emergencies
+- ## 💼 Professional Experience
+
+- Programmer and System Analyst — Ta’am Avaran Kooh Sabz  
+  September 2016 – Present
+
+- Software Developer and System Analyst — Mojtaba Parhizkar Greenhouse Workshop  
+  April 2024 – Present
+
+- Software Developer with Accounting — Chideman Dekor Fars  
+  April 2022 – 2024
+
+- Problem Solving and Finance Expert — Arshia Plast Fars  
+  November 2018 – March 2022
+
+- System Programmer and Accountant — Taravat Pakhsh Iranian  
+  August 2017 – 2019
+
+- Computer Software Expert — Navid Sazan Jam  
+  May 2015 – 2016
 
 ## 📫 Contact
 
