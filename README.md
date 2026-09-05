@@ -54,9 +54,11 @@ My research interests include Artificial Intelligence, Machine Learning, Deep Le
 - Web Development
 - Database Management Systems
 - MySQL
-- Data Warehousing & Analytics
 - SharePoint
+- Data Warehousing & Analytics
+- Project Management
 - Performance & Scalability Optimization
+- Data Warehousing & Analytics
 - System Analysis
 - Project Management
 
