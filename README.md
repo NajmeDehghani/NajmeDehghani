@@ -46,6 +46,33 @@ My research interests include Artificial Intelligence, Machine Learning, Deep Le
 - C++
 - C#
 - JavaScript
+- ## 🔬 Research & Publications
+
+My research interests and publications focus on:
+
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- IoT and Network Security
+- Cloud Computing & Edge Computing
+- Task Scheduling and Optimization
+- Image Processing
+- Natural Language Processing
+- Software-Defined Networking
+
+### Selected Research Papers
+
+- Detecting Attacks in Software-Oriented Internet of Things Networks Using SDN-Based AI Algorithms
+- AO-HHO-LevyFlight Algorithm for Task Scheduling in Cloud
+- A Blockchain-Driven Decentralized Intrusion Detection System Using Double Q-Learning and Bi-LSTM (QB-AutoIDS)
+- Virtual Network Function Sharing and Deep Learning to Cost Efficient Network Slicing in 5G Network
+- Task Scheduling in Intelligent Edge of 5G-Enabled AI-Industrial IoT Using DL-LSTM-AQL
+
+### Conference Papers
+
+- Review and Evaluation of Datamining Classification and Prediction Algorithms on Medical Datasets
+- Offer of Product Based On Each Person's Interests Through Phase Meta-innovation Algorithms and Bee Optimization in Online Stores
+- Comparison of Energy Consumption Minimization Methods in Wireless Ad hoc Networks With Metaheuristic Techniques
+- Software Defined Networking-Based Decision Technique to Multilevel Thresholding Image Segmentation with MetaHeuristic Algorithms
 
 ### Software & Technologies
 
